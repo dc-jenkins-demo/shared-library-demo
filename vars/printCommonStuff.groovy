@@ -1,3 +1,3 @@
 def call() {
-  echo 'This is some common stuff'
+  print 'This is some common stuff'
 }
